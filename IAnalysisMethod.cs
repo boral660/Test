@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//test
+//testы
 namespace Steganography.Analysis
 {
     public interface IAnalysisMethod
