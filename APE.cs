@@ -9,7 +9,7 @@ namespace Steganography.Analysis
 {
     class APE : IAnalysisMethod
     {
-        // Произвести анализ
+         // Произвести анализ
     public double Analyse(ref Bitmap first, ref Bitmap second)
         {
             // Выдать исключение если нет одной или двух картинок
